@@ -2,7 +2,7 @@
 
 Student: Sakshi Jha
 Branch: CSE
-Work: Practical / Lab Notebooks
+Work: CETPA Capgemini 
 Environment: Google Colab
 
 🌟 Welcome!
