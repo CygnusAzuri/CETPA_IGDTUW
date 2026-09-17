@@ -79,9 +79,6 @@ Some notebooks may require a specific dataset or uploaded file before all cells 
 
 For the best experience, run the notebook from the first cell to the last cell and read the comments/instructions provided inside it.
 
-💬 Final Thought
-
-“College practicals: where one missing bracket can teach you more than an entire lecture.” 😭💻
 
 Keeping these notebooks together makes it easier to revise, practice and revisit experiments whenever needed.
 
