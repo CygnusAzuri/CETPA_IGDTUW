@@ -1,88 +1,147 @@
-💻 My College Practical Journey | Google Colab
+# 🤖 AIML Course Projects | CETPA × Capgemini
 
-Student: Sakshi Jha
-Branch: CSE
-Work: CETPA Capgemini 
-Environment: Google Colab
+### 👩‍💻 Sakshi Jha
 
-🌟 Welcome!
+**Branch:** CSE
+**Course:** Artificial Intelligence & Machine Learning (AIML)
+**Training:** CETPA Infotech
+**Under:** Capgemini
 
-This repository contains my collection of college practical notebooks created using Google Colab.
+---
 
-Think of it as my small academic workspace where all the experiments, code, outputs and practice work come together.
+## 🌟 About This Repository
 
-No fancy setup.
-No “works on my laptop” problem. 😄
-Just Colab + Python + experiments + a little debugging pain.
+Welcome to my **AIML Course Project Repository**! 🚀
 
-📂 Notebook Collection
+As part of my **Artificial Intelligence & Machine Learning (AIML) course at CETPA under Capgemini**, I worked on multiple practical projects and experiments using **Python, Google Colab, Machine Learning concepts, data analysis, and visualization**.
 
-Open Google Colab – Notebook 01
+This repository contains the practical work I completed during the training.
 
-Open Google Colab – Notebook 02
+For me, this course was not just about learning the theory of AI/ML — it was about actually **writing code, working with datasets, understanding models, getting errors 😭, debugging them, and finally seeing the output.**
 
-Open Google Colab – Notebook 03
+> **Learn → Code → Experiment → Debug → Improve 🤖💻**
 
-Open Google Colab – Notebook 04
+---
 
-Open Google Colab – Notebook 05
+## 📂 Projects & Practical Work
 
-Open Google Colab – Notebook 06
+Below are the Google Colab notebooks created during my AIML training:
 
-Open Google Colab – Notebook 07
+| #  | Project / Practical | Notebook                                                                                                      |
+| -- | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 01 | AIML Practical 01   | [Open in Google Colab](https://colab.research.google.com/drive/16v1IYxwVOVJ5NmorvwOLs5r0fNWsO5WJ?usp=sharing) |
+| 02 | AIML Practical 02   | [Open in Google Colab](https://colab.research.google.com/drive/1P3QU6YmK6R9Dfr-4QpYJ7okE3C9YPat_?usp=sharing) |
+| 03 | AIML Practical 03   | [Open in Google Colab](https://colab.research.google.com/drive/1Ac0Sr0tRwD6FHDUv1s5Tjjvmr6wpGr3F?usp=sharing) |
+| 04 | AIML Practical 04   | [Open in Google Colab](https://colab.research.google.com/drive/1HKA4o9Ozpbyb-rBrd8hcodlm5wfNpqFD?usp=sharing) |
+| 05 | AIML Practical 05   | [Open in Google Colab](https://colab.research.google.com/drive/1Rfvd4m3aY9zxh8w-WPaKT3donHP9IJiy?usp=sharing) |
+| 06 | AIML Practical 06   | [Open in Google Colab](https://colab.research.google.com/drive/1leQcS3JavRdc0f66MozXKjBp4pFBplTd?usp=sharing) |
+| 07 | AIML Practical 07   | [Open in Google Colab](https://colab.research.google.com/drive/1dtnE5RVYN8AORjnvjHlCcJc_yC0JcgQ-?usp=sharing) |
+| 08 | AIML Practical 08   | [Open in Google Colab](https://colab.research.google.com/drive/1ziTwSaAKGCofG-LDw8vZcsn10r1v7HMC?usp=sharing) |
+| 09 | AIML Practical 09   | [Open in Google Colab](https://colab.research.google.com/drive/1cfEF6hmjE8yCErOymJrP2yCkgXBkcl62?usp=sharing) |
+| 10 | AIML Practical 10   | [Open in Google Colab](https://colab.research.google.com/drive/1ay6uJS3pnID2VVkJTJCvu_5oqf432WIt?usp=sharing) |
 
-Open Google Colab – Notebook 08
+---
 
-Open Google Colab – Notebook 09
+## 🧠 What I Worked With
 
-Open Google Colab – Notebook 10
+During the course, I got hands-on exposure to different stages of an AIML workflow:
 
-🎯 Why This Collection?
+* 🐍 Python Programming
+* 📊 Data Analysis
+* 🧹 Data Preprocessing
+* 🔍 Exploratory Data Analysis
+* 📈 Data Visualization
+* 🤖 Machine Learning
+* 🧮 Feature Handling
+* 📚 Model Training
+* 🧪 Model Evaluation
+* ☁️ Google Colab
 
-These notebooks were created as part of college practical learning.
+---
 
-The main idea was not just to copy code and get an output, but to understand:
+## 🛠️ Technologies & Libraries
 
-How the code works
+```text
+Python
+Google Colab
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+```
 
-How datasets are handled
+Additional libraries were used wherever required by individual projects.
 
-How Python libraries are used
+---
 
-How errors are fixed
+## 🔄 Typical AIML Workflow
 
-How theoretical concepts become practical programs
+The practical projects helped me understand how an ML project can move from raw data to a final prediction:
 
-How to document experiments properly
+```text
+Dataset
+   ↓
+Data Understanding
+   ↓
+Data Cleaning
+   ↓
+Preprocessing
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Selection / Preparation
+   ↓
+Model Training
+   ↓
+Prediction
+   ↓
+Model Evaluation
+```
 
-🧠 Skills Practiced
+---
 
-Python programming
+## 🎯 Key Learning Outcomes
 
-Data handling
+Through this training, I learned how to:
 
-Data preprocessing
+* Work with real datasets instead of only theoretical examples
+* Write and execute Python code in Google Colab
+* Clean and prepare data for analysis
+* Visualize patterns and relationships in data
+* Understand the basic workflow of Machine Learning
+* Train and test ML models
+* Evaluate model performance
+* Identify and fix coding errors
+* Understand how AI/ML concepts are applied practically
 
-Exploratory analysis
+---
 
-Data visualization
+## 💡 My Takeaway
 
-Machine learning concepts
+The biggest takeaway from this course was understanding that **Machine Learning is not just about choosing an algorithm.**
 
-Google Colab workflow
+A good ML project also depends on:
 
-Debugging & problem solving
+**Good Data → Good Preprocessing → Good Features → Suitable Model → Proper Evaluation**
 
-📌 Note
+Working on these projects gave me practical exposure to this complete process.
 
-Some notebooks may require a specific dataset or uploaded file before all cells can be executed successfully.
+---
 
-For the best experience, run the notebook from the first cell to the last cell and read the comments/instructions provided inside it.
+## 📌 About the Training
 
+**Training Institute:** CETPA Infotech
+**Course:** Artificial Intelligence & Machine Learning (AIML)
+**Industry Association:** Capgemini
 
-Keeping these notebooks together makes it easier to revise, practice and revisit experiments whenever needed.
+This repository represents the practical projects and learning work completed during my AIML training.
 
-👩‍💻 Student Info:
+---
 
-Name: Sakshi Jha
-Branch: CSE
+## 👩‍💻 Student
+
+**Sakshi Jha**
+**CSE**
+
+> *“Still learning, still experimenting, and still debugging — one ML project at a time. 🤖💻”*
