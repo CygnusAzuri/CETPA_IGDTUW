@@ -126,5 +126,5 @@ Through this project, the following concepts are demonstrated:
 
 **Sakshi Jha**
 
-B.Tech – Artificial Intelligence and Machine Learning
+B.Tech – CSE
 IGDTUW
